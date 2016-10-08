@@ -24,6 +24,22 @@ footer {
 	font-size: 14px;
 }
 
+.projects {
+	background-color: #333;
+}
+
+.projects h3 {
+	color: white;
+}
+
+.projects p {
+	color: white;
+}
+
+.thumbnail img {
+	height: 230px;
+}
+
 /*.about {
 	padding: 30px 300px 30px 300px;
 }*/
