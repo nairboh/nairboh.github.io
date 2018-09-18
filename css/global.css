@@ -1,19 +1,19 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	color: white;
-	background-color: #333;
+	background-color: black;
 	text-align: center;
 	padding-top: 65px; 
 }
 
 nav {
-	background-color: #333;
+	background-color: black;
 	padding: 15px 30px 15px 15px;
 	font-size: 20px;
 }
 
 .navbar-nav {
-	background-color: #333;
+	background-color: black;
 }
 
 h1 {
@@ -25,7 +25,7 @@ footer {
 }
 
 .projects {
-	background-color: #333;
+	background-color: black;
 }
 
 .projects h3 {
@@ -66,13 +66,13 @@ footer {
 }
 
 .active {
-	background-color: #4CAF50;
+	background-color: #00b8e6;
 }
 
 .navbar-nav li a:hover {
-	background-color: #4CAF50;
+	background-color: #00b8e6;
 }
 
 .navbar-nav li a:focus {
-	background-color: #4CAF50;
+	background-color: #00b8e6;
 }
